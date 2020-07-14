@@ -1,0 +1,9 @@
+name: SurvivalGames
+author: BratPfxnne
+version: 0.1
+main: de.brati.sg.Main
+commands:
+  setup:
+  start:
+  forcemap:
+  forcedeathmatch:
